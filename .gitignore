@@ -1,0 +1,20 @@
+
+# Frontend dependencies and build files
+frontend/node_modules/
+frontend/dist/
+
+# Backend Python files
+backend/.venv/
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Git and editor files
+.vscode/
+.idea/

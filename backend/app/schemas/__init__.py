@@ -1,0 +1,1 @@
+"""EcoTrack AI Schemas package."""
